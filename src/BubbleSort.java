@@ -1,5 +1,7 @@
+package src;
 import java.util.Arrays;
 
+//버블 정렬
 public class BubbleSort {
     public static void main(String[] args) {
         int[] arr = {64, 25, 12, 22, 11};

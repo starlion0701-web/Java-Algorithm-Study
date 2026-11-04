@@ -1,4 +1,6 @@
+package src;
 import java.util.Arrays;
+// 삽입정렬
 
 public class InsertionSort {
     public static void main(String[] args) {
